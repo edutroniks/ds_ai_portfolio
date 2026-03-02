@@ -3,6 +3,9 @@ site_author: Marek Kasiarz
 site_description: >-
     Clear Insights • Reproducible ML • Practical AI Agents
 
+site_url: https://edutroniks.github.io/ds_ai_portfolio/
+
+
 theme:
   name: material
 
