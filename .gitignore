@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# MkDocs build
+site/
+
+# OS files
+.DS_Store
+
+# Virtual environments
+venv/
+.env/
