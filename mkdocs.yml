@@ -7,12 +7,16 @@ site_url: https://edutroniks.github.io/ds_ai_portfolio/
 
 markdown_extensions:
   - attr_list
+  - toc:
+      permalink: true  # Dodaje ikonkę linku obok nagłówka
 
-
+    
 theme:
   name: material
 
-
+  features:
+      - toc.follow      # Podświetla sekcję, w której aktualnie jest czytelnik
+      - navigation.top  # Dodaje przycisk "wróć na górę"
 nav:
   - Home: index.md
   - Projects:

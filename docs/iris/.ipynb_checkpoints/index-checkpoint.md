@@ -1,4 +1,6 @@
 # Iris Dataset Project
+## Spis treści
+[TOC]
 
 This project explores the classic Iris dataset through a clean, reproducible workflow.  
 It includes an exploratory data analysis, a polished article, and the original notebook.
