@@ -21,3 +21,4 @@ It covers:
 - interpretation of patterns 
 
 
+### wyniki
