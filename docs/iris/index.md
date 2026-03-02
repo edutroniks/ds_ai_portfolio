@@ -1,4 +1,5 @@
 # Iris Dataset Project
+
 ## Spis treści
 [TOC]
 
@@ -19,6 +20,3 @@ It covers:
 - feature relationships  
 - class separability  
 - interpretation of patterns 
-
-
-### wyniki
