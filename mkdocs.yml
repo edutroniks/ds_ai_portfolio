@@ -1,0 +1,15 @@
+site_name: My Portfoliio
+site_author: Marek Kasiarz
+site_description: >-
+    Clear Insights • Reproducible ML • Practical AI Agents
+
+theme:
+  name: material
+
+
+nav:
+  - Home: index.md
+  - Projects:
+      - Iris Project: iris/index.md
+      - HM Predictor App: hm/index.md
+  - About Me: about.md
