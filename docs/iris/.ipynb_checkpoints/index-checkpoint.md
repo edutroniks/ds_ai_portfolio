@@ -5,8 +5,8 @@ It includes an exploratory data analysis, a polished article, and the original n
 
 ## Contents
 
-- [Read the article](/ds_ai_portfolio/iris/iris.html)
-- [Download the notebook](ds_ai_portfolio/assets/notebooks/iris.ipynb)
+- [Read the article](iris/iris.html)
+- [Download the notebook](assets/notebooks/iris.ipynb){:download="iris.ipynb"
 
 ## Overview
 

@@ -5,6 +5,9 @@ site_description: >-
 
 site_url: https://edutroniks.github.io/ds_ai_portfolio/
 
+markdown_extensions:
+  - attr_list
+
 
 theme:
   name: material
