@@ -5,7 +5,6 @@ This project delivers a practical machine learning application that predicts hal
 ## Contents
 
 - [GitHub repository](https://github.com/edutroniks/hmpredictor)
-- [App link](https://hmpredictor-dvfxw.ondigitalocean.app/)
 
 ## Project Overview
 
